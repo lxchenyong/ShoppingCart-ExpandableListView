@@ -1,4 +1,4 @@
 
-ÆäÊµÊÇ¸ù¾İÕâ¸ö¸Ä³ÉMVPµÄ½á¹¹
+å…¶å®æ˜¯æ ¹æ®è¿™ä¸ªæ”¹æˆMVPçš„ç»“æ„
 
-https://github.com/zilianliuxue/TBShoppingCart/tree/master/app/src/main/java/com/zy/tbshoppingcart/entity
+https://github.com/zilianliuxue/TBShoppingCart
